@@ -7,7 +7,7 @@ const pokemons = [
           value: "6.0",
           measurementUnit: "kg"
       },
-      image: "https://cdn.bulbagarden.net/upload/b/b2/Spr_5b_025_m.png",
+      image: "https://cdn2.bulbagarden.net/upload/archive/0/0d/20100904002342%21025Pikachu.png",
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)"
   },
   {
@@ -18,7 +18,7 @@ const pokemons = [
           value: "8.5",
           measurementUnit: "kg"
       },
-      image: "https://cdn.bulbagarden.net/upload/0/0a/Spr_5b_004.png",
+      image: "https://cdn2.bulbagarden.net/upload/archive/7/73/20130810091956%21004Charmander.png",
       moreInfo: "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)"
   },
   {
